@@ -1,0 +1,13 @@
+C:\Users\sean\Documents\UB\Fall 12\MGS314\ExtraCredit\teamdbfrontend\teamdbfrontend\bin\Debug\TeamDatabase.accdb
+C:\Users\sean\Documents\UB\Fall 12\MGS314\ExtraCredit\teamdbfrontend\teamdbfrontend\bin\Debug\teamdbfrontend.exe.config
+C:\Users\sean\Documents\UB\Fall 12\MGS314\ExtraCredit\teamdbfrontend\teamdbfrontend\bin\Debug\teamdbfrontend.exe
+C:\Users\sean\Documents\UB\Fall 12\MGS314\ExtraCredit\teamdbfrontend\teamdbfrontend\bin\Debug\teamdbfrontend.pdb
+C:\Users\sean\Documents\UB\Fall 12\MGS314\ExtraCredit\teamdbfrontend\teamdbfrontend\bin\Debug\teamdbfrontend.xml
+C:\Users\sean\Documents\UB\Fall 12\MGS314\ExtraCredit\teamdbfrontend\teamdbfrontend\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sean\Documents\UB\Fall 12\MGS314\ExtraCredit\teamdbfrontend\teamdbfrontend\obj\x86\Debug\teamdbfrontend.Form1.resources
+C:\Users\sean\Documents\UB\Fall 12\MGS314\ExtraCredit\teamdbfrontend\teamdbfrontend\obj\x86\Debug\teamdbfrontend.Resources.resources
+C:\Users\sean\Documents\UB\Fall 12\MGS314\ExtraCredit\teamdbfrontend\teamdbfrontend\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sean\Documents\UB\Fall 12\MGS314\ExtraCredit\teamdbfrontend\teamdbfrontend\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sean\Documents\UB\Fall 12\MGS314\ExtraCredit\teamdbfrontend\teamdbfrontend\obj\x86\Debug\teamdbfrontend.exe
+C:\Users\sean\Documents\UB\Fall 12\MGS314\ExtraCredit\teamdbfrontend\teamdbfrontend\obj\x86\Debug\teamdbfrontend.xml
+C:\Users\sean\Documents\UB\Fall 12\MGS314\ExtraCredit\teamdbfrontend\teamdbfrontend\obj\x86\Debug\teamdbfrontend.pdb
