@@ -25,3 +25,4 @@ C:\Users\sean\Documents\GitHub\VB-Chapter-12\teamdbfrontend\teamdbfrontend\obj\x
 C:\Users\sean\Documents\GitHub\VB-Chapter-12\teamdbfrontend\teamdbfrontend\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\Users\sean\Documents\GitHub\VB-Chapter-12\teamdbfrontend\teamdbfrontend\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\sean\Documents\GitHub\VB-Chapter-12\teamdbfrontend\teamdbfrontend\obj\x86\Debug\teamdbfrontend.frm_Main.resources
+C:\Users\sean\Documents\GitHub\VB-Chapter-12\teamdbfrontend\teamdbfrontend\obj\x86\Debug\teamdbfrontend.Frm_BindingControls.resources

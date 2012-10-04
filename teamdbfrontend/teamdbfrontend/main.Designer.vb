@@ -23,6 +23,7 @@ Partial Class frm_Main
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.btn_DataView = New System.Windows.Forms.Button()
+        Me.btn_BindingControls = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'btn_DataView
@@ -34,11 +35,21 @@ Partial Class frm_Main
         Me.btn_DataView.Text = "Data View"
         Me.btn_DataView.UseVisualStyleBackColor = True
         '
+        'btn_BindingControls
+        '
+        Me.btn_BindingControls.Location = New System.Drawing.Point(33, 61)
+        Me.btn_BindingControls.Name = "btn_BindingControls"
+        Me.btn_BindingControls.Size = New System.Drawing.Size(105, 23)
+        Me.btn_BindingControls.TabIndex = 1
+        Me.btn_BindingControls.Text = "Binding Controls"
+        Me.btn_BindingControls.UseVisualStyleBackColor = True
+        '
         'frm_Main
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(284, 262)
+        Me.Controls.Add(Me.btn_BindingControls)
         Me.Controls.Add(Me.btn_DataView)
         Me.Name = "frm_Main"
         Me.Text = "Main Form"
@@ -46,4 +57,5 @@ Partial Class frm_Main
 
     End Sub
     Friend WithEvents btn_DataView As System.Windows.Forms.Button
+    Friend WithEvents btn_BindingControls As System.Windows.Forms.Button
 End Class

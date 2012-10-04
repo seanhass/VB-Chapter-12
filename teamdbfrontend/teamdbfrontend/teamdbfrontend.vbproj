@@ -72,6 +72,12 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="bindingcontrols.Designer.vb">
+      <DependentUpon>bindingcontrols.vb</DependentUpon>
+    </Compile>
+    <Compile Include="bindingcontrols.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="datagridview.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -107,6 +113,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="bindingcontrols.resx">
+      <DependentUpon>bindingcontrols.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="datagridview.resx">
       <DependentUpon>datagridview.vb</DependentUpon>
     </EmbeddedResource>
