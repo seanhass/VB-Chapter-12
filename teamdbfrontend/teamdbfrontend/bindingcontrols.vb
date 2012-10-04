@@ -1,9 +1,13 @@
 ﻿Public Class Frm_BindingControls
 
     Private Sub MembersBindingNavigatorSaveItem_Click(sender As System.Object, e As System.EventArgs) Handles MembersBindingNavigatorSaveItem.Click
-        Me.Validate()
-        Me.MembersBindingSource.EndEdit()
-        Me.TableAdapterManager.UpdateAll(Me.TeamDatabaseDataSet)
+        Try
+            Me.Validate()
+            Me.MembersBindingSource.EndEdit()
+            Me.TableAdapterManager.UpdateAll(Me.TeamDatabaseDataSet)
+        Catch
+            MessageBox.Show("You have not filled out all required fields.")
+        End Try
 
     End Sub
 
